@@ -23,7 +23,7 @@ Get-CWMChargeCode [<CommonParameters>]
 
 ### EXAMPLE 1
 ```powershell
-Get-ChargeCode
+Get-CWMChargeCode
 ```
 
 ## PARAMETERS
